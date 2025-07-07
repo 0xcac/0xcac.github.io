@@ -4,7 +4,7 @@ tagline:             'A Blog'
 description:         'No description.'
 url:                 https://0xcac.github.io
 baseurl:             ''
-paginate:            5
+paginate:            1
 permalink:           pretty
 
 # About/contact
